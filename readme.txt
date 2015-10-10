@@ -11,3 +11,5 @@ I love you forever.
 we hug by the back.
 i don't know how different between jim and jam.
 today is Saturday
+Hello,world!
+the weather is changeable in shenzhen.
